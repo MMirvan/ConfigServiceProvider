@@ -1,6 +1,6 @@
 {
     "name": "mirvan/config-service-provider",
-    "description": "A config ServiceProvider for Silex with support for php, json and yaml.",
+    "description": "A config ServiceProvider for Silex with support for php, json and yaml.Fork On https://github.com/igorw/ConfigServiceProvider",
     "keywords": ["silex"],
     "license": "MIT",
     "authors": [
