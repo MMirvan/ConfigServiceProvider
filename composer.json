@@ -1,5 +1,5 @@
 {
-    "name": "igorw/config-service-provider",
+    "name": "mirvan/config-service-provider",
     "description": "A config ServiceProvider for Silex with support for php, json and yaml.",
     "keywords": ["silex"],
     "license": "MIT",
@@ -11,7 +11,10 @@
         {
             "name": "Contributors",
             "homepage": "https://github.com/igorw/ConfigServiceProvider/contributors"
-        }
+        },{
+			"name": "Mirvan AKA Amir Ghiyasvand",
+            "email": "am.mirvan@gmail.com"
+		}
     ],
     "require": {
         "silex/silex": "~1.0"
